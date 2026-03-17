@@ -1,0 +1,45 @@
+.fig-label {
+  font-size: 0.825rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+.img-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.main-content {
+  text-align: justify;
+  text-justify: inter-word; /* optional: improves spacing behavior */  
+}
+
+h1, h2, h3, h4, h5, h6 {
+    text-align: left; /* or inherit if you prefer */
+}
+
+.main-content h1,
+.main-content h2 {
+  position: relative;
+  padding-bottom: 0.5em;
+  margin-bottom: 1em;
+}
+
+.main-content h1::after,
+.main-content h2::after {
+  content: "";
+  display: block;
+  width: 100%;
+  border-bottom: 1px solid $grey-lt-200;  // faint gray via semi-transparent black
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+.unselectable {
+  -webkit-touch-callout: none;    /* iOS Safari / WebKit menu */
+  -webkit-user-select: none;      /* Chrome / Safari */
+  -moz-user-select: none;         /* Firefox */
+  -ms-user-select: none;          /* IE / Edge */
+  user-select: none;              /* Standard */
+}
