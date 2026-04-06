@@ -18,7 +18,7 @@ Also, we would like to extend our appreciation to our stakeholders and partners,
 * Office for Space Technology and Industry, Singapore (OSTIn) for supporting the mission via launch procurement and linkups with industry;  
 * ST Engineering Satellite Systems and TUV SUD for their agreement to provide environmental testing services at the subsystem and system level;  
 * NuSpace and Mr. Ng Zhen Ning for providing their consultancy services as part of their role as the Satellite Bus Contractor.  
-* Dr Angel Menendez from the National Cheng Kung University in Taiwan for sharing valuable insights into the thermal development of the Lilium-1 CubeSat and on-orbit telemetry
+* Dr Angel Menendez from the National Cheng Kung University in Taiwan for sharing valuable insights into the thermal development of the Lilium-1 CubeSat and on-orbit telemetry.
 
 We would also like to thank:
 
