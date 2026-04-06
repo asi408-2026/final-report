@@ -15,9 +15,9 @@ permalink: /lim-tze-yee/
 </div>
 
 
-# 3\. Thermal Analyses and Certification
+# **3\. Thermal Analyses and Certification**
 
-## 3.1 Scope of Project
+## **3.1 Scope of Project**
 
 # 3.1.1 Problem
 
